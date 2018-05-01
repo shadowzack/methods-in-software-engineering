@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\nid windows\source\repos\checkbox\checkbox\source.cpp(14): warning C4101: 'info': unreferenced local variable
+  checkbox.cpp
+  Generating Code...
+  CHECKBOX.vcxproj -> C:\Users\Nid Windows\source\repos\CHECKBOX\Debug\CHECKBOX.exe
